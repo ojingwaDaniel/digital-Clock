@@ -1,0 +1,33 @@
+body{
+    background-color: coral;
+    color: aliceblue;
+}
+.container{
+    margin-left: 60px;
+}
+#minutes{
+    font-size: 60px;
+}
+#seconds{
+    font-size: 30px;
+}
+
+.container{
+    margin-left: 45%;
+}
+h2{
+    font-size: 60px;
+}
+button{
+    margin-top: 50px;
+    width: 150px;
+    height: 50px;
+    background-color: coral;
+    border-radius: 20px;
+    border: 2px solid white;
+    color: white;
+}
+button:hover{
+    background-color: white;
+    color: coral;
+}
